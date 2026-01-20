@@ -3,3 +3,5 @@ Python
 Git is very useful
 
 git push is very useful command
+
+git commit is used to stage the commits
